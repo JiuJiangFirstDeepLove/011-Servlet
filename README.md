@@ -1,6 +1,6 @@
-# 基于Sservlet的商城系统
+# 基于Servlet的商城系统
 
-# Sservlet-011
+# Servlet-011
 
 ### 技术栈
 
